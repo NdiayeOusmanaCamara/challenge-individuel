@@ -1,0 +1,29 @@
+
+## Introduction
+
+Cette calculatrice basique vous permet d'effectuer des opérations mathématiques simples telles que l'addition, la soustraction, la multiplication et la division. Elle est conçue pour être simple à utiliser et accessible à tous.
+
+## Fonctionnalités
+
+Addition
+Soustraction
+Multiplication
+Division
+## Mode d'emploi
+
+Lancez la calculatrice.
+Entrez le premier nombre en utilisant les boutons numériques ou le clavier de votre ordinateur.
+Sélectionnez l'opération que vous souhaitez effectuer (addition, soustraction, multiplication ou division) en cliquant sur le bouton correspondant.
+Entrez le deuxième nombre en utilisant les boutons numériques ou le clavier de votre ordinateur.
+Appuyez sur le bouton "=" pour obtenir le résultat.
+## Exemples
+
+2 + 2 = 4
+5 - 3 = 2
+4 x 3 = 12
+10 / 2 = 5
+## Remarques
+
+Vous pouvez entrer des nombres positifs et négatifs.
+Vous pouvez utiliser des virgules pour les nombres décimaux.
+La calculatrice affichera un message d'erreur si vous essayez de diviser par zéro.
